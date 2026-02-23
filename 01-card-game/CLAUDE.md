@@ -1,4 +1,4 @@
-# Craft Session #1: Deal Me In
+# Craft Session #1: Card Game
 
 ## Project Overview
 
